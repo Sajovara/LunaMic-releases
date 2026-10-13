@@ -6,6 +6,29 @@ Browser weiter. Für Windows und Linux (PipeWire).
 
 Hier liegen nur die fertigen Programmdateien.
 
+## So sieht es aus
+
+| Übersicht | Filter | Equalizer |
+|---|---|---|
+| <img src="screenshots/overview.png" width="260"> | <img src="screenshots/filters.png" width="260"> | <img src="screenshots/eq.png" width="260"> |
+| Pegel vorher/nachher, dein Mikro, wo du LunaMic in Discord, OBS & Co. auswählst. | Jeder Filter mit An/Aus und einem Regler, in einfachen Worten erklärt. | Kurve zum Ziehen oder Bänder, mit Profilen. |
+
+| Feinwerte | Hören & testen | Einstellungen |
+|---|---|---|
+| <img src="screenshots/filters-more.png" width="260"> | <img src="screenshots/listen.png" width="260"> | <img src="screenshots/settings.png" width="260"> |
+| Mehr Einstellungen klappen erst auf, wenn du sie brauchst. | Sich selbst hören, Tipp-Test, aufnehmen und vergleichen – mit und ohne Filter. | Einmessen, Stummschalten per Tastenkürzel, Autostart, Aussehen, Updates. |
+
+| Willkommen | Einrichtungs-Assistent |
+|---|---|
+| <img src="screenshots/welcome.png" width="260"> | <img src="screenshots/goals.png" width="260"> |
+| Beim ersten Start in drei Schritten erklärt. | Sag, was stört (Tastatur, Lüfter, Atmen …) – LunaMic misst und stellt sich selbst ein. |
+
+**Fünf Looks:** Lunar (Standard), Dark, Light, Warm und Terminal.
+
+| Dark | Light | Warm | Terminal |
+|---|---|---|---|
+| <img src="screenshots/dark.png" width="195"> | <img src="screenshots/light.png" width="195"> | <img src="screenshots/warm.png" width="195"> | <img src="screenshots/terminal.png" width="195"> |
+
 ## Herunterladen
 
 **[Neueste Version](https://github.com/Sajovara/LunaMic-releases/releases/latest)**
